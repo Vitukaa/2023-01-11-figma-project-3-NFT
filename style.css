@@ -1,0 +1,26 @@
+.main-header .header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 32px;
+}
+.main-header .header-wrapper .main-navigation {
+  display: flex;
+}
+.main-header .header-wrapper .main-navigation .menu-list {
+  display: none;
+}
+.main-header .header-wrapper .main-navigation .menu-button {
+  all: unset;
+  cursor: pointer;
+}
+
+.page-wrapper {
+  background-color: #FFF0E8;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}/*# sourceMappingURL=style.css.map */

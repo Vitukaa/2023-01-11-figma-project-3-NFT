@@ -1,0 +1,34 @@
+.main-header {
+    .header-wrapper {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 32px;
+        
+        .page-logo {
+            
+        }
+
+        .main-navigation {
+            display: flex;
+
+
+            .menu-list {
+                display: none;
+
+                .menu-item {
+                    .menu-link {
+
+                        &.accent {
+                            
+                        }
+                    }
+                }
+            }
+
+            .menu-button {
+                all: unset;
+                cursor: pointer;
+            }
+        }
+    }
+}
